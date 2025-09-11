@@ -14,7 +14,7 @@
    - Hozzunk létre egy tömböt, ami vegyes típusokat tartalmaz
    - Hozzunk létre egy tömböt, ami tömböket is tartalmaz
    - Iteráljunk végig a tömbökön: `for in`, `for of`
-4. Hozzunk létre egy függvényt, ami paraméterül egy színeket tartalmazó tömböt kap, majd random kiválaszt egy elemet a tömbből, és visszadja ezt. Nézzük meg, miben különbözzik a függvény használata `array function`ként és tradicionalis `function`ként!
+4. Hozzunk létre egy függvényt, ami paraméterül egy színeket tartalmazó tömböt kap, majd random kiválaszt egy elemet a tömbből, és visszadja ezt. Nézzük meg, miben különbözzik a függvény használata `arrow function`ként és tradicionalis `function`ként!
    - `érték` vs `referencia`
    - `pure` vs `impure`
 5. Hozzunk létre egy bjektumot, aminek van `greet` metódusa!
