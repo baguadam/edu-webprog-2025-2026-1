@@ -8,6 +8,10 @@ $age = 23;
 $is_married = false;
 $height = 175.3;
 
+$num = "23";
+echo $num + $num; // 46
+echo $num . $num; // "2323"
+
 // var_dump segítségével kaphatunk információt a változónkról, pl típus vagy struktúra, debughoz nagyszerű
 var_dump($first_name, $age, $is_married, $height);
 echo $last_name . $first_name; // string konkatenáció (NEM A "+")
@@ -119,4 +123,12 @@ foreach($students as $student) {
     echo "</ul>";
 }
 
+?>
+
+<?php 
+    echo "<h1>H2</h1>"
+?>
+
+<?= 
+    "<h1>H1</h1>"
 ?>
