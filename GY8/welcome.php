@@ -1,6 +1,5 @@
 <?php
 $errors = [];
-
 function validate_name($input, &$errors) {
     if (!isset($input)) {
         $errors['name'] = "Nem érkezett név!";
