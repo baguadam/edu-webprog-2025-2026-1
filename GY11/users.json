@@ -1,0 +1,29 @@
+{
+    "69313a751e687": {
+        "username": "bagua",
+        "password": "$2y$10$\/8hsXmCHbMZEX\/0QWPdVbumZpJmc4ynfYQm3iAHAKHCxCfiMr.eB.",
+        "fullname": "Bagu",
+        "roles": [
+            "user"
+        ],
+        "id": "69313a751e687"
+    },
+    "693145be336f4": {
+        "username": "asd",
+        "password": "$2y$10$xfsEo.TC0wF\/zjKxCiv\/EOmotkyO2ZG8PkypLmt4HDRdHpjLHCvMC",
+        "fullname": "asd",
+        "roles": [
+            "user"
+        ],
+        "id": "693145be336f4"
+    },
+    "693145f09aa64": {
+        "username": "asd2123",
+        "password": "$2y$10$.eq7UItLnbGOb3\/a30e3sOUBteKco0070TH4AVjteVtmJ9XetOSHm",
+        "fullname": "sfasfdasdf",
+        "roles": [
+            "user"
+        ],
+        "id": "693145f09aa64"
+    }
+}
